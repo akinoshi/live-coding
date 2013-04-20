@@ -1,4 +1,4 @@
 A collection of live coding experiments using (fluxus) and SuperCollider.
 
-http://www.pawfal.org/fluxus/
-http://supercollider.sourceforge.net/
+[(fluxus)](http://www.pawfal.org/fluxus/)
+[SuperCollider](http://supercollider.sourceforge.net/)
